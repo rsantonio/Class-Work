@@ -1,0 +1,12 @@
+body{
+	color: #eee;
+}
+h1{
+	float: left;
+	color: #999;
+}
+
+p{
+	float: right;
+}
+
